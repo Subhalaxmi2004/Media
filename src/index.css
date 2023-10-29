@@ -35,7 +35,7 @@ line-height: normal;
     transition: transform 0.3s;
 }
 .inner:hover .photo{
-    transform: scale(1.2);
+    transform: scale(1.1);
 }
 @media only screen and (max-width: 991px) {
 h1{

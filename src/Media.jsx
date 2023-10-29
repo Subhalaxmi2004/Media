@@ -6,7 +6,7 @@ const Media = (props) => {
     <>
       
       <div class="inner">
-      <images imgsrc={props.imgsrc} height="100%" width="100%" className="photo"/>
+      <img src={props.imgsrc} height="100%" width="100%" className="photo" alt="media" />
       
       </div>
     </>

@@ -1,4 +1,4 @@
-import React,{useState} from "react";
+import React from "react";
 import "./index.css"
 import Media from "./Media";
 import Data from "./Data"
@@ -6,9 +6,6 @@ function ncard(val){
     return (
       <Media
         imgsrc={val.imgsrc}
-        title= {val.title}
-        sname={val.sname}
-        link={val.link}
       />
     );
   }
