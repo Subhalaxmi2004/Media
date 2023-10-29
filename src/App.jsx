@@ -13,7 +13,7 @@ const App = () =>{
  
 return(
     <>
-    <div className="header">
+    <div className="head">
     <h1>Media Coverage</h1></div>
     <div className="outer">
     {Data.map

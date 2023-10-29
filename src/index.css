@@ -21,7 +21,7 @@ box-shadow: 51px 66px 100px 0px rgba(0, 0, 0, 0.25);
     border-radius: 18px;
     background: rgba(255, 255, 255, 0.22);
 }
-.header{
+.head{
     height: 200px;
     text-align: center;
     color: #FFF;
@@ -41,7 +41,7 @@ line-height: normal;
 h1{
     font-size: 40px;
 }
-.header{
+.head{
     height: 140px;
 }
 }
